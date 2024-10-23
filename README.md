@@ -20,5 +20,5 @@
 4.Построить дашборд
 
 ## Описание проекта
-
+[SQL-скрипты, используемые в прроекте](https://github.com/VengrinaMV/marketing_and_product_analis/blob/main/project.sql)
 [Ссылка на дашборд в Yandex DataLens.](https://datalens.yandex/2etlsmj04acap)
